@@ -1,0 +1,2 @@
+/*** ARQUIVO EXEMPLO 3 ***/
+Editando o arquivo exemplo3.txt
