@@ -1,2 +1,4 @@
 /*** EXEMPLO 1 ***/
 Digitando algo no exemplo 1
+
+Realizando uma alteração no exemplo1
