@@ -1,2 +1,4 @@
 /*** EXEMPLO 2 ***/
 Editando o exemplo2.txt
+
+Inserindo mais outra linha pra a realizaçÎáÎ÷Îıo do projeto 2: gerando 2 releases
