@@ -3,3 +3,5 @@ Digitando algo no exemplo 1
 
 Realizando uma alteração no exemplo1
 Inserindo mais uma linha
+
+Inserindo mais outra linha pra a realização do projeto 2: gerando 2 releases
